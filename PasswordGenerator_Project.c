@@ -235,7 +235,6 @@ int main()
     printf("********************************");
     printf("PASSWORD GENERATION AND CHECKER");
     printf("********************************");
-    printf("\nCreated by \nNAMITA SATHISH \nNADIA NAUREEN \nSAMYUKTHA \nTARLANA VIDYA ");
     while(1){
     printf("\n\n\tMENU\t");
     printf("\n1.Password generation\n2.Password checker\n3.Time taken to crack your password\n");
